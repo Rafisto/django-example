@@ -144,3 +144,9 @@ REST_FRAMEWORK = {
 # Djoser Settings
 
 DJOSER = {"USER_ID_FIELD": "username"}
+
+# Testing db
+
+TEST = {
+    'NAME': 'test_db'
+}
