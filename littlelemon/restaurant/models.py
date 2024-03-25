@@ -12,7 +12,7 @@ class Booking(models.Model):
         return self.Name
 
 
-class Menu(models.Model):
+class MenuItem(models.Model):
     ID = models.AutoField(primary_key=True)
     Title = models.CharField(max_length=255)
     Price = models.DecimalField(max_digits=10, decimal_places=2)
