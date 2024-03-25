@@ -2,3 +2,8 @@
 username=django
 email=django@example.com
 password=django
+
+[User]
+username=example
+email=email@example.com
+password=passwordpassword
