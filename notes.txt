@@ -1,0 +1,4 @@
+[Superuser]
+username=django
+email=django@example.com
+password=django
